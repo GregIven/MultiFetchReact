@@ -14,8 +14,8 @@ const Fetch = () => {
 
     return (
         <div>
-            <p>loo</p>
-            <h1>hoo</h1>
+            <p>biz</p>
+            <h1>baz</h1>
         </div>
     )
 }
